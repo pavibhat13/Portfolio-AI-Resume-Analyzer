@@ -1,0 +1,1 @@
+import{o as t,t as a}from"./chunk-QMGIS6GS-DX0VMMAr.js";const e=()=>t.jsxs("nav",{className:"navbar",children:[t.jsx(a,{to:"/",children:t.jsx("p",{className:"text-2xl font-bold text-gradient",children:"SkillSculpt AI"})}),t.jsx(a,{to:"/upload",className:"primary-button w-fit",children:"Upload Resume"})]});export{e as N};
